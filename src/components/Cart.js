@@ -1,4 +1,5 @@
 import '../styles/Cart.css'
+
 function Cart() {
     const monsteraPrice = 8
     const ivyPrice = 10
