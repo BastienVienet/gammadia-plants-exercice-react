@@ -15,7 +15,6 @@ function App() {
         localStorage.setItem('cart', JSON.stringify(cart))
     }, [cart])
 
-    console.log(savedCart);
     return (
         <div>
             <Banner>
